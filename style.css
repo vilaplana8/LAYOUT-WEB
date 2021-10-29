@@ -1,0 +1,70 @@
+body { background-image: url(web/violeta.png); }
+
+
+
+
+.fondo{
+background-color: #5d59a5;
+}
+
+.titulo {
+background-color: #a4c5e9;
+padding-left: 20em;
+text-shadow: 0.25em -0.04em 0.20px white;
+color: #5d59a5;
+margin-bottom:0.2em;
+font-size: 2em;
+text-align: center;
+}
+
+.segundo{
+background-color: white;
+padding-bottom: -1.4em;
+padding-top: 1em;
+margin-top: -0,5;
+ }
+
+
+ #cabecera{
+   display: table;
+   clear: both;
+   content: " ";
+ }
+
+
+ #foto{
+   float: left;
+   width: 150px;
+   height: 150px;
+   border: thin solid black;
+   margin: 7px;
+   padding: 6px;
+ }
+
+.globo{
+  padding: 2em;
+  margin: 1em;
+}
+
+.globo-naranja{
+  background-color: #f28226;
+  color: white;
+  margin: 0.5em;
+  margin-right: 10em;
+  
+}
+
+.container-verde{
+  padding: 0,3em;
+}
+
+
+.globo-verde{
+  background-image: url("web/verde.png");
+}
+
+
+.globo-marron{
+  background-color: #b45421;
+
+}
